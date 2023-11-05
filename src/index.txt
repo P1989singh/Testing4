@@ -1,2 +1,2 @@
 First Semver automation
-Second commit
+Second commits
