@@ -1,1 +1,1 @@
-console.log('learn the git log')
+console.log('learn the git logs')
